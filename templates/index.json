@@ -403,22 +403,15 @@
     "video_yAA7Bn": {
       "type": "video",
       "blocks": {
-        "play_fjECcn": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        },
         "heading_3ik3UQ": {
           "type": "heading",
           "settings": {
-            "text": "Video",
+            "text": "Chaque mot, une prière, chaque page, un voyage...",
             "heading_tag": "h2"
           }
         }
       },
       "block_order": [
-        "play_fjECcn",
         "heading_3ik3UQ"
       ],
       "settings": {
@@ -440,7 +433,7 @@
             "products_count": 8,
             "title": "",
             "link_url": "",
-            "link_text": "View all"
+            "link_text": "Explorer la collection"
           }
         }
       },
@@ -456,7 +449,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Découvrez mes ÉCRITS"
+        "subheading": "Des écrits qui élèvent l'âme et apaisent le cœur"
       }
     },
     "logo_list_HfaWxV": {

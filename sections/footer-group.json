@@ -23,6 +23,24 @@
             "author": ""
           }
         },
+        "testimonial_KkQ7X7": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p><strong>Une lecture qui touche l'âme</strong></p><p>\"Chaque page de ce livre m’a apporté un rappel précieux. Il ne s’agit pas seulement de lecture, mais d’un véritable voyage spirituel qui apaise le cœur et éclaire l’esprit. Merci pour cette œuvre inspirante.\"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_cERdYt": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
         "testimonial_wB3rP8": {
           "type": "testimonial",
           "settings": {
@@ -44,6 +62,8 @@
       },
       "block_order": [
         "testimonial_KfcCnB",
+        "testimonial_KkQ7X7",
+        "testimonial_cERdYt",
         "testimonial_wB3rP8",
         "testimonial_WVtr3G"
       ],
