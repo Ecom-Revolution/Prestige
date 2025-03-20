@@ -181,13 +181,13 @@
         "text_6yWjGK": {
           "type": "text",
           "settings": {
-            "text": "Welcome to our shop"
+            "text": "<strong>100% des bénéfices reversé à un orphelinat</strong>"
           }
         },
         "text_T7WYkQ": {
           "type": "text",
           "settings": {
-            "text": "Discover our products"
+            "text": "<strong>10% de remise</strong> sur votre 1ère commande"
           }
         }
       },
@@ -197,11 +197,11 @@
       ],
       "settings": {
         "separate_section_with_border": true,
-        "scrolling_speed": 0.3,
+        "scrolling_speed": 0.2,
         "scroll_direction": "left",
         "pause_on_hover": false,
         "text_font": "heading",
-        "text_font_size_mobile": 18,
+        "text_font_size_mobile": 16,
         "text_font_size_desktop": 18,
         "section_vertical_spacing_mobile": 26,
         "section_vertical_spacing_desktop": 26,
@@ -234,26 +234,9 @@
             "show_taxes_notice": false
           }
         },
-        "rating_6E3idi": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false,
-            "rating_mode": "rating"
-          }
-        },
-        "payment_terms_p7kHEj": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "separator_7UwpJp": {
           "type": "separator",
           "settings": {}
-        },
-        "description_Bt9bYB": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
         },
         "variant_picker_yxax4P": {
           "type": "variant_picker",
@@ -269,6 +252,15 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "inventory_MhEmLq": {
+          "type": "inventory",
+          "settings": {
+            "show_in_stock_quantity": true,
+            "low_inventory_threshold": 29,
+            "show_progress_bar": true,
+            "progress_bar_max_value": 100
+          }
+        },
         "buy_buttons_Bh3cUH": {
           "type": "buy_buttons",
           "settings": {
@@ -280,9 +272,46 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_FtARVY": {
-          "type": "pickup_availability",
-          "settings": {}
+        "description_Bt9bYB": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "accordion_tikpN9": {
+          "type": "accordion",
+          "settings": {
+            "icon": "none",
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_bb6Twy": {
+          "type": "accordion",
+          "settings": {
+            "icon": "none",
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "offers_QhxkwA": {
+          "type": "offers",
+          "settings": {
+            "stack_offers": true,
+            "offer_1_title": "",
+            "offer_1_content": "<h4><strong>offrez à des enfants un avenir plus lumineux</strong></h4>",
+            "offer_2_title": "",
+            "offer_2_content": "<p>Pour chaque exemplaire de ‘Ramadan : Ma guérison du cœur’ acheté, la totalité des ventes sera reversée à un orphelinat.</p>",
+            "offer_3_title": "",
+            "offer_3_content": "",
+            "background": "#fcdcc4",
+            "text_color": "#666666",
+            "border_color": "#d1d1d1"
+          }
         }
       },
       "block_order": [
@@ -290,14 +319,15 @@
         "title_BFWNWb",
         "badges_LxjADb",
         "price_khykcC",
-        "rating_6E3idi",
-        "payment_terms_p7kHEj",
         "separator_7UwpJp",
-        "description_Bt9bYB",
         "variant_picker_yxax4P",
         "quantity_selector_XkVYMQ",
+        "inventory_MhEmLq",
         "buy_buttons_Bh3cUH",
-        "pickup_availability_FtARVY"
+        "description_Bt9bYB",
+        "accordion_tikpN9",
+        "accordion_bb6Twy",
+        "offers_QhxkwA"
       ],
       "settings": {
         "color_scheme": "scheme-1",
@@ -314,8 +344,8 @@
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "subheading": "",
-        "title": "offrez à des enfants un avenir plus lumineux",
-        "content": "<p>Pour chaque exemplaire de ‘Ramadan : Ma guérison du cœur’ acheté, la totalité des ventes sera reversée à un orphelinat.</p>"
+        "title": "",
+        "content": ""
       }
     },
     "countdown_xcQWja": {
