@@ -119,15 +119,29 @@
         "question_zPzM3V": {
           "type": "question",
           "settings": {
-            "question": "Question",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "question": "Puis-je retourner un livre si je change d’avis ?",
+            "answer": "<p>Nous acceptons les retours sous <strong>30 jours après réception</strong>, à condition que le livre soit dans son état d’origine et non utilisé. Les frais de retour sont à la charge du client.</p>"
           }
         },
         "question_NXHexd": {
           "type": "question",
           "settings": {
-            "question": "Question",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "question": "Quels sont les moyens de paiement acceptés ?",
+            "answer": "<p>Nous acceptons <strong>Visa, Mastercard, PayPal, Apple Pay et autres modes de paiement sécurisés</strong>.</p>"
+          }
+        },
+        "question_FgwCtb": {
+          "type": "question",
+          "settings": {
+            "question": "Mes paiements sont-ils sécurisés ?",
+            "answer": "<p>Oui, tous les paiements effectués sur notre site sont <strong>entièrement sécurisés et cryptés</strong> pour garantir votre protection.</p>"
+          }
+        },
+        "question_VbKgzh": {
+          "type": "question",
+          "settings": {
+            "question": "Avez-vous un service client disponible ?",
+            "answer": "<p>Oui, notre service client est disponible <strong>du lundi au vendredi de 9h à 18h</strong> pour répondre à toutes vos questions et vous accompagner dans votre commande.</p>"
           }
         }
       },
@@ -138,7 +152,9 @@
         "question_EdFfnf",
         "question_mg9BLE",
         "question_zPzM3V",
-        "question_NXHexd"
+        "question_NXHexd",
+        "question_FgwCtb",
+        "question_VbKgzh"
       ],
       "settings": {
         "color_scheme": "",
