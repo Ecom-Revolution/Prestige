@@ -190,9 +190,9 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Contact",
-        "content": ""
+        "subheading": "Besoin d’un conseil, d’une question ou d’un échange inspirant ?",
+        "title": "Contactez-moi",
+        "content": "<p>Je serais ravie de vous lire et de répondre à vos demandes. Remplissez le formulaire ci-dessous, et je vous répondrai dans les plus brefs délai</p>"
       }
     },
     "text-with-icons": {
@@ -257,13 +257,20 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
+        "text": {
+          "type": "text",
           "settings": {
-            "title": "Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
-            "button_background": "",
-            "button_text_color": ""
+            "title": "À Propos",
+            "content": "<p>Chaque livre est une invitation à l’introspection et à la connexion spirituelle. À travers mes écrits, je partage des mots empreints d’espoir, de foi et de sérénité.</p><p>Plongez dans un univers où chaque page éclaire votre chemin intérieur.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
+        "links_hHaxFr": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
           }
         },
         "links": {
@@ -274,19 +281,21 @@
             "menu_title": ""
           }
         },
-        "text": {
-          "type": "text",
+        "newsletter": {
+          "type": "newsletter",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Rejoignez ma newsletter",
+            "content": "<p>Inscrivez-vous pour découvrir mes nouvelles parutions, des réflexions inspirantes et des offres spéciales réservées aux abonnés.</p>",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "newsletter",
+        "text",
+        "links_hHaxFr",
         "links",
-        "text"
+        "newsletter"
       ],
       "settings": {
         "color_scheme": "scheme-3",
