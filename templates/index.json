@@ -234,6 +234,54 @@
             "show_taxes_notice": false
           }
         },
+        "feature_with_icon_VFWQ7L": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Lecture inspirante",
+            "link": "",
+            "icon": "picto-success",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_X7mKn8": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Livraison rapide",
+            "link": "",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_xzU3Ft": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Cadeau idéal",
+            "link": "",
+            "icon": "picto-gift",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_8CE6Mb": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Feature",
+            "link": "",
+            "icon": "picto-jewelry",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
         "separator_7UwpJp": {
           "type": "separator",
           "settings": {}
@@ -282,8 +330,8 @@
           "type": "accordion",
           "settings": {
             "icon": "none",
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "<strong>Détails du livre</strong>",
+            "content": "<p>Nombre de pages : 131</p><p>Dimensions : 13.34 x 0.76 x 20.32 cm</p><p>Un livre conçu pour t’inspirer, te recentrer et t’accompagner au quotidien. </p>",
             "liquid": "",
             "page": ""
           }
@@ -319,6 +367,10 @@
         "title_BFWNWb",
         "badges_LxjADb",
         "price_khykcC",
+        "feature_with_icon_VFWQ7L",
+        "feature_with_icon_X7mKn8",
+        "feature_with_icon_xzU3Ft",
+        "feature_with_icon_8CE6Mb",
         "separator_7UwpJp",
         "variant_picker_yxax4P",
         "quantity_selector_XkVYMQ",
@@ -348,26 +400,34 @@
         "content": ""
       }
     },
-    "countdown_xcQWja": {
-      "type": "countdown",
+    "video_yAA7Bn": {
+      "type": "video",
+      "blocks": {
+        "play_fjECcn": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_3ik3UQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_fjECcn",
+        "heading_3ik3UQ"
+      ],
       "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "Subheading",
-        "title": "Special offer",
-        "content": "<p>Share something about your limited offer or temporary promotion.</p>",
-        "button_link": "",
-        "button_text": "",
-        "expiration_date": "",
-        "expiration_behavior": "leave",
-        "timer_position": "end",
-        "animate_number": true,
-        "flip_background": "",
-        "flip_background_opacity": 50,
-        "flip_text_color": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "autoplay": true,
+        "show_controls": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/woman-notebook-and-hands-writing-in-home-for-jour-2023-11-27-05-22-53-utc.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
       }
     },
     "featured-collections": {
@@ -463,7 +523,7 @@
     "multi_column_mcAjnk",
     "scrolling_content_krFcUf",
     "featured_product_qbX7nX",
-    "countdown_xcQWja",
+    "video_yAA7Bn",
     "featured-collections",
     "logo_list_HfaWxV"
   ]
