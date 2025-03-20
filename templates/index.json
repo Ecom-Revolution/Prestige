@@ -122,6 +122,208 @@
         "text_color": ""
       }
     },
+    "image_with_text_b6k6JK": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_k9XXnK": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_3RVHnr": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_ykirhx": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_k9XXnK",
+        "heading_3RVHnr",
+        "richtext_ykirhx"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "scrolling_content_krFcUf": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_6yWjGK": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome to our shop"
+          }
+        },
+        "text_T7WYkQ": {
+          "type": "text",
+          "settings": {
+            "text": "Discover our products"
+          }
+        }
+      },
+      "block_order": [
+        "text_6yWjGK",
+        "text_T7WYkQ"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 40,
+        "text_font_size_desktop": 96,
+        "section_vertical_spacing_mobile": 60,
+        "section_vertical_spacing_desktop": 80,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "#fcdcc4",
+        "text_color": "#666666"
+      }
+    },
+    "featured_product_qbX7nX": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_jqyeTU": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_BFWNWb": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_LxjADb": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_khykcC": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_6E3idi": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_p7kHEj": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator_7UwpJp": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_Bt9bYB": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_yxax4P": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_XkVYMQ": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Bh3cUH": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_FtARVY": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_jqyeTU",
+        "title_BFWNWb",
+        "badges_LxjADb",
+        "price_khykcC",
+        "rating_6E3idi",
+        "payment_terms_p7kHEj",
+        "separator_7UwpJp",
+        "description_Bt9bYB",
+        "variant_picker_yxax4P",
+        "quantity_selector_XkVYMQ",
+        "buy_buttons_Bh3cUH",
+        "pickup_availability_FtARVY"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "product": "ramadan-ma-guerison-du-coeur",
+        "separate_section_with_border": true,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "Featured product",
+        "content": ""
+      }
+    },
+    "countdown_xcQWja": {
+      "type": "countdown",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Subheading",
+        "title": "Special offer",
+        "content": "<p>Share something about your limited offer or temporary promotion.</p>",
+        "button_link": "",
+        "button_text": "",
+        "expiration_date": "",
+        "expiration_behavior": "leave",
+        "timer_position": "end",
+        "animate_number": true,
+        "flip_background": "",
+        "flip_background_opacity": 50,
+        "flip_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -151,113 +353,60 @@
         "subheading": "Découvrez mes ÉCRITS"
       }
     },
-    "multiple-media-with-text": {
-      "type": "multiple-media-with-text",
+    "logo_list_HfaWxV": {
+      "type": "logo-list",
       "blocks": {
-        "image-1": {
-          "type": "image",
+        "logo_4LLnDb": {
+          "type": "logo",
           "settings": {
-            "rotation": 0
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "image-2": {
-          "type": "image",
+        "logo_WXBjB9": {
+          "type": "logo",
           "settings": {
-            "rotation": 0
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_FbREnk": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_nMhRMP": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_iAGLzp": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "image-1",
-        "image-2"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "Keep me updated",
-        "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
-        "button_text": "Subscribe",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "shop-the-look": {
-      "type": "shop-the-look",
-      "blocks": {
-        "look-1": {
-          "type": "look",
-          "settings": {
-            "hot_spots_background": "#ffffff",
-            "product_1": "",
-            "product_1_horizontal_position": 55,
-            "product_1_vertical_position": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 25,
-            "product_2_vertical_position": 40,
-            "product_3": "",
-            "product_3_horizontal_position": 65,
-            "product_3_vertical_position": 60,
-            "product_4": "",
-            "product_4_horizontal_position": 85,
-            "product_4_vertical_position": 85
-          }
-        }
-      },
-      "block_order": [
-        "look-1"
+        "logo_4LLnDb",
+        "logo_WXBjB9",
+        "logo_FbREnk",
+        "logo_nMhRMP",
+        "logo_iAGLzp"
       ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Shop the look",
-        "content": "",
-        "popover_title": "Shop the look"
-      }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "blog": "",
-        "posts_count": 3,
-        "stack_on_mobile": false,
-        "show_category": true,
-        "show_date": false,
-        "show_excerpt": true,
-        "show_read_more": true,
-        "subheading": "",
-        "title": "Blog posts",
-        "content": "",
-        "button_link": "",
-        "button_text": "View all"
+        "subheading": "Mon Instagram",
+        "title": "<a href=\"https://www.instagram.com/ya.allah._/\" title=\"https://www.instagram.com/ya.allah._/\">@ya.allah._</a>",
+        "items_per_row": 5,
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     }
   },
@@ -265,10 +414,11 @@
     "slideshow",
     "rich_text_pBHhxV",
     "scrolling_content_LCRUaP",
+    "image_with_text_b6k6JK",
+    "scrolling_content_krFcUf",
+    "featured_product_qbX7nX",
+    "countdown_xcQWja",
     "featured-collections",
-    "multiple-media-with-text",
-    "newsletter",
-    "shop-the-look",
-    "blog-posts"
+    "logo_list_HfaWxV"
   ]
 }

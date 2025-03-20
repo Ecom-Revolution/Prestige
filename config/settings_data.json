@@ -10,6 +10,8 @@
 {
   "current": {
     "section_vertical_spacing": "md",
+    "button_border_radius": 0,
+    "input_border_radius": 0,
     "modal_color_scheme": "scheme-2",
     "product_rating_color": "#1c1c1c",
     "product_on_sale_accent": "#e32c2b",
@@ -23,6 +25,9 @@
     "text_font": "century_gothic_n4",
     "text_font_size_desktop": 14,
     "button_letter_spacing": 18,
+    "show_vendor": true,
+    "product_card_text_font": "heading",
+    "favicon": "shopify://shop_images/N_500_x_450_px.png",
     "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
@@ -30,8 +35,8 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text_color": "#5c5c5c",
-          "primary_button_background": "#d2a391",
-          "primary_button_text_color": "#ffffff",
+          "primary_button_background": "#fcdcc4",
+          "primary_button_text_color": "#666666",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#1c1c1c"
         }
@@ -41,8 +46,8 @@
           "background": "#f3f3f3",
           "background_gradient": "",
           "text_color": "#5c5c5c",
-          "primary_button_background": "#d2a391",
-          "primary_button_text_color": "#ffffff",
+          "primary_button_background": "#fcdcc4",
+          "primary_button_text_color": "#666666",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#5c5c5c"
         }
@@ -51,7 +56,7 @@
         "settings": {
           "background": "#fcdcc4",
           "background_gradient": "",
-          "text_color": "#1c1c1c",
+          "text_color": "#666666",
           "primary_button_background": "#ffffff",
           "primary_button_text_color": "#1c1c1c",
           "circle_button_background": "#ffffff",
