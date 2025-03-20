@@ -61,10 +61,10 @@
         "image_7aP9ti": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/171e967b-4dfd-4288-b081-c6870e7d9151.png",
-            "width_mode": "full_width",
-            "max_width": 100,
-            "mobile_max_width": 100
+            "image": "shopify://shop_images/Design_sans_titre_3.png",
+            "width_mode": "custom",
+            "max_width": 150,
+            "mobile_max_width": 150
           }
         }
       },
