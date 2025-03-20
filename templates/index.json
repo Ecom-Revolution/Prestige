@@ -85,22 +85,29 @@
         "text_aD8f7r": {
           "type": "text",
           "settings": {
-            "text": "Welcome to our shop"
+            "text": "“Un livre qui touche le cœur et éclaire l’âme. Merci pour ces mots remplis de sagesse et d’apaisement.”"
           }
         },
         "text_CddBHU": {
           "type": "text",
           "settings": {
-            "text": "Discover our products"
+            "text": "“Une lecture captivante qui m’a offert un vrai moment de réflexion et de sérénité. Je recommande vivement !”"
+          }
+        },
+        "text_mpifbb": {
+          "type": "text",
+          "settings": {
+            "text": "“Chaque page est une invitation à se recentrer sur l’essentiel. Un ouvrage profond et inspirant.”"
           }
         }
       },
       "block_order": [
         "text_aD8f7r",
-        "text_CddBHU"
+        "text_CddBHU",
+        "text_mpifbb"
       ],
       "settings": {
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "scrolling_speed": 0.1,
         "scroll_direction": "left",
         "pause_on_hover": false,
