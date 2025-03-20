@@ -16,7 +16,7 @@
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/Sans titre (1999 x 1125 px).mp4",
-            "allow_sound": true,
+            "allow_sound": false,
             "subheading": "Une invitation à la réflexion et à la foi",
             "title": "Plongez dans un univers d’inspiration et de sérénité",
             "mobile_text_position": "place-self-center text-center",
@@ -24,8 +24,8 @@
             "content_max_width": 780,
             "button_1_text": "Découvrir les écrits",
             "button_1_link": "shopify://collections/les-cles-de-la-serenite",
-            "button_1_style": "solid",
-            "button_1_background": "#fcdcc4",
+            "button_1_style": "outline",
+            "button_1_background": "#fcfcfc",
             "button_1_text_color": "#1c1c1c",
             "button_2_text": "",
             "button_2_link": "",
@@ -45,7 +45,7 @@
       ],
       "settings": {
         "allow_transparent_header": true,
-        "show_next_section_button": true,
+        "show_next_section_button": false,
         "media_size": "auto",
         "show_initial_transition": false,
         "autoplay": true,
