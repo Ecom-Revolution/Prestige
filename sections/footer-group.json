@@ -14,55 +14,55 @@
     "testimonials_rKQjP4": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_KfcCnB": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": ""
-          }
-        },
         "testimonial_KkQ7X7": {
           "type": "testimonial",
           "settings": {
             "content": "<p><strong>Une lecture qui touche l'âme</strong></p><p>\"Chaque page de ce livre m’a apporté un rappel précieux. Il ne s’agit pas seulement de lecture, mais d’un véritable voyage spirituel qui apaise le cœur et éclaire l’esprit. Merci pour cette œuvre inspirante.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "<strong>Sarah M.</strong>"
+          }
+        },
+        "testimonial_KfcCnB": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p><strong>Un baume pour le cœur</strong></p><p>\"À travers ces mots, j’ai ressenti une paix intérieure que je n’avais jamais connue. Ce livre m’accompagne dans mon cheminement spirituel et m’aide à garder espoir face aux épreuves de la vie.\"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": "<strong>Fatima L.</strong>"
           }
         },
         "testimonial_cERdYt": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p><strong>Des paroles empreintes de sagesse</strong></p><p>\"Lire cet ouvrage, c’est comme recevoir un conseil bienveillant d’un proche qui souhaite votre bien. Il m’a aidée à me recentrer sur l’essentiel et à renforcer ma foi avec sérénité.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "<strong>Imane B.</strong>"
           }
         },
         "testimonial_wB3rP8": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p><strong>Une lumière dans l’obscurité</strong></p><p>\"J’ai découvert ce livre à un moment difficile de ma vie et il a été une véritable bouffée d’air. Chaque mot résonne profondément et m’encourage à avancer avec patience et gratitude.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "<strong>Nadia K.</strong>"
           }
         },
         "testimonial_WVtr3G": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p><strong>Un compagnon du quotidien</strong></p><p>\"Ce n’est pas un simple livre, c’est un guide, une source de réconfort qui m’accompagne chaque jour. Je le recommande à toute personne cherchant à nourrir son cœur et à se rapprocher de l’essentiel.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "<strong>Yasmine D.</strong>"
           }
         }
       },
       "block_order": [
-        "testimonial_KfcCnB",
         "testimonial_KkQ7X7",
+        "testimonial_KfcCnB",
         "testimonial_cERdYt",
         "testimonial_wB3rP8",
         "testimonial_WVtr3G"
@@ -229,7 +229,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "main-menu",
             "show_menu_title": true,
             "menu_title": ""
           }
