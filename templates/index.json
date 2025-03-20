@@ -122,41 +122,57 @@
         "text_color": ""
       }
     },
-    "image_with_text_b6k6JK": {
-      "type": "image-with-text",
+    "multi_column_mcAjnk": {
+      "type": "multi-column",
       "blocks": {
-        "subheading_k9XXnK": {
-          "type": "subheading",
+        "image_with_text_ah69KK": {
+          "type": "image_with_text",
           "settings": {
-            "text": "Subheading"
+            "title": "",
+            "heading_tag": "h6",
+            "content": "<p>L’écriture a toujours été pour moi un moyen d’expression profond, mais c’est dans le partage de la foi et de la spiritualité que j’ai trouvé ma véritable voie.</p><p>À travers mes livres, j’aspire à apporter des rappels puissants et des enseignements qui touchent le cœur, en particulier dans notre relation avec Allah.</p>",
+            "link_url": "",
+            "link_text": ""
           }
         },
-        "heading_3RVHnr": {
-          "type": "heading",
+        "image_with_text_XyCz34": {
+          "type": "image_with_text",
           "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p>J’ai décidé de me lancer dans l’écriture pour partager des expériences, des réflexions et des paroles inspirantes qui m’ont aidée dans mon propre parcours spirituel. <br/><br/>Chaque ouvrage est une invitation à la guérison du cœur, à la patience, à l’espoir et à l’amour d’Allah.Que ce soit pour traverser des épreuves ou pour se rapprocher de Lui, j’espère que mes livres seront une source de lumière pour vous.</p>",
+            "link_url": "",
+            "link_text": ""
           }
         },
-        "richtext_ykirhx": {
-          "type": "richtext",
+        "image_with_text_BH9Fyb": {
+          "type": "image_with_text",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p>Mon but est simple : transmettre un message de foi, de gratitude et de paix intérieure.<br/></p><p>J’espère que mes mots pourront vous accompagner dans votre propre cheminement, et qu’ils apporteront un peu plus de lumière à votre quotidien.<br/><br/>Merci de faire partie de ce voyage avec moi.</p>",
+            "link_url": "",
+            "link_text": ""
           }
         }
       },
       "block_order": [
-        "subheading_k9XXnK",
-        "heading_3RVHnr",
-        "richtext_ykirhx"
+        "image_with_text_ah69KK",
+        "image_with_text_XyCz34",
+        "image_with_text_BH9Fyb"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "md",
+        "subheading": "Bienvenue sur mon site, je suis Inaya",
+        "title": "<strong>UN PEU DE MOI</strong>",
+        "content": ""
       }
     },
     "scrolling_content_krFcUf": {
@@ -221,7 +237,7 @@
         "rating_6E3idi": {
           "type": "rating",
           "settings": {
-            "show_empty": true,
+            "show_empty": false,
             "rating_mode": "rating"
           }
         },
@@ -256,7 +272,7 @@
         "buy_buttons_Bh3cUH": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -298,8 +314,8 @@
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "subheading": "",
-        "title": "Featured product",
-        "content": ""
+        "title": "offrez à des enfants un avenir plus lumineux",
+        "content": "<p>Pour chaque exemplaire de ‘Ramadan : Ma guérison du cœur’ acheté, la totalité des ventes sera reversée à un orphelinat.</p>"
       }
     },
     "countdown_xcQWja": {
@@ -414,7 +430,7 @@
     "slideshow",
     "rich_text_pBHhxV",
     "scrolling_content_LCRUaP",
-    "image_with_text_b6k6JK",
+    "multi_column_mcAjnk",
     "scrolling_content_krFcUf",
     "featured_product_qbX7nX",
     "countdown_xcQWja",
