@@ -171,7 +171,7 @@
         "text_alignment": "center",
         "spacing": "md",
         "subheading": "Bienvenue sur mon site, je suis Inaya",
-        "title": "<strong>UN PEU DE MOI</strong>",
+        "title": "UN PEU DE MOI",
         "content": ""
       }
     },
@@ -181,13 +181,13 @@
         "text_6yWjGK": {
           "type": "text",
           "settings": {
-            "text": "<strong>100% des bénéfices reversé à un orphelinat</strong>"
+            "text": "100% des bénéfices reversé à un orphelinat"
           }
         },
         "text_T7WYkQ": {
           "type": "text",
           "settings": {
-            "text": "<strong>10% de remise</strong> sur votre 1ère commande"
+            "text": "10% de remise sur votre 1ère commande"
           }
         }
       },
@@ -201,10 +201,10 @@
         "scroll_direction": "left",
         "pause_on_hover": false,
         "text_font": "heading",
-        "text_font_size_mobile": 16,
+        "text_font_size_mobile": 12,
         "text_font_size_desktop": 18,
-        "section_vertical_spacing_mobile": 26,
-        "section_vertical_spacing_desktop": 26,
+        "section_vertical_spacing_mobile": 14,
+        "section_vertical_spacing_desktop": 20,
         "item_horizontal_spacing_mobile": 80,
         "item_horizontal_spacing_desktop": 120,
         "background": "#fcdcc4",
