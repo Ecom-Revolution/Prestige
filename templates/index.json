@@ -79,6 +79,42 @@
         "remove_vertical_spacing": true
       }
     },
+    "scrolling_content_LCRUaP": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_aD8f7r": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome to our shop"
+          }
+        },
+        "text_CddBHU": {
+          "type": "text",
+          "settings": {
+            "text": "Discover our products"
+          }
+        }
+      },
+      "block_order": [
+        "text_aD8f7r",
+        "text_CddBHU"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.1,
+        "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "body",
+        "text_font_size_mobile": 12,
+        "text_font_size_desktop": 16,
+        "section_vertical_spacing_mobile": 10,
+        "section_vertical_spacing_desktop": 10,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "#f3f3f3",
+        "text_color": ""
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -221,6 +257,7 @@
   "order": [
     "slideshow",
     "rich_text_pBHhxV",
+    "scrolling_content_LCRUaP",
     "featured-collections",
     "multiple-media-with-text",
     "newsletter",
