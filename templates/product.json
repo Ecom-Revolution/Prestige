@@ -149,7 +149,7 @@
             "offer_2_content": "<p>Pour chaque exemplaire de ‘Ramadan : Ma guérison du cœur’ acheté, la totalité des ventes sera reversée à un orphelinat.</p>",
             "offer_3_title": "",
             "offer_3_content": "",
-            "background": "#efe8de",
+            "background": "#f7f3ee",
             "text_color": "",
             "border_color": ""
           }
@@ -367,22 +367,22 @@
         "action_icon_size_mobile": 28,
         "action_border_thickness": 0,
         "card_border_color": "#000000",
-        "info_color": "#FFFFFF",
+        "info_color": "#ffffff",
         "arrow_color": "#5c5c5c",
-        "arrow_hover_color": "#FFFFFF",
+        "arrow_hover_color": "#ffffff",
         "arrow_bg_color": "#f7f3ee",
         "arrow_bg_hover_color": "#555555",
-        "arrow_border_color": "#F6F6F6",
+        "arrow_border_color": "#f6f6f6",
         "arrow_border_hover_color": "#555555",
         "action_color": "#f7f3ee",
         "action_hover_color": "#f7f3ee",
-        "action_bg_color": "#FFFFFF",
-        "action_bg_hover_color": "#FFFFFF",
-        "action_border_color": "#FFFFFF",
-        "action_border_hover_color": "#FFFFFF",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
         "heading_color": "#000000",
         "sub_heading_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -398,6 +398,35 @@
         "border_thickness": 0,
         "section_radius": 0,
         "lazy": true
+      }
+    },
+    "featured_collections_LcgGwW": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_4aViVJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "les-cles-de-la-serenite",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "Explorer la collection"
+          }
+        }
+      },
+      "block_order": [
+        "collection_4aViVJ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Des écrits qui élèvent l'âme et apaisent le cœur"
       }
     },
     "faq_PE6aAK": {
@@ -513,35 +542,6 @@
         "subheading": "Besoin d’un conseil, d’une question ou d’un échange inspirant ?",
         "title": "Contactez-moi",
         "content": "<p>Je serais ravie de vous lire et de répondre à vos demandes. Remplissez le formulaire ci-dessous, et je vous répondrai dans les plus brefs délai</p>"
-      }
-    },
-    "featured_collections_LcgGwW": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_4aViVJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "les-cles-de-la-serenite",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "Explorer la collection"
-          }
-        }
-      },
-      "block_order": [
-        "collection_4aViVJ"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Des écrits qui élèvent l'âme et apaisent le cœur"
       }
     }
   },
