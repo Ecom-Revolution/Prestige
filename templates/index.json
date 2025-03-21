@@ -71,6 +71,7 @@
       "block_order": [
         "image_7aP9ti"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
@@ -106,6 +107,7 @@
         "text_CddBHU",
         "text_mpifbb"
       ],
+      "disabled": true,
       "settings": {
         "separate_section_with_border": false,
         "scrolling_speed": 0.1,
