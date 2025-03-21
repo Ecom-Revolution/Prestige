@@ -124,282 +124,40 @@
         "text_color": ""
       }
     },
-    "multi_column_mcAjnk": {
-      "type": "multi-column",
+    "rich_text_P3VeJ4": {
+      "type": "rich-text",
       "blocks": {
-        "image_with_text_ah69KK": {
-          "type": "image_with_text",
+        "subheading_wVaief": {
+          "type": "subheading",
           "settings": {
-            "title": "",
-            "heading_tag": "h6",
-            "content": "<p>Écrire a toujours été ma façon de parler quand les mots restaient coincés dans ma gorge. C’était ma manière de déposer mon cœur sur du papier, d’offrir un peu de lumière à ceux qui marchaient dans l’ombre de leurs doutes et de leurs blessures.<br/><br/>J’ai grandi avec l’amour des mots, non pas ceux qu’on dit à la hâte, mais ceux qui résonnent, qui touchent, qui restent. Des mots qui pansent les maux, qui rappellent l’essentiel, qui élèvent l’âme.<br/></p>",
-            "link_url": "",
-            "link_text": ""
+            "text": "Bienvenue sur mon site, je suis Inaya"
           }
         },
-        "image_with_text_4cmnLx": {
-          "type": "image_with_text",
+        "heading_wgAiMR": {
+          "type": "heading",
           "settings": {
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<p>Alors j’ai écrit. J’ai écrit pour celles et ceux qui cherchent du réconfort, qui veulent retrouver la sérénité, qui ont besoin d’un rappel doux mais puissant que, quoi qu’il arrive, Allah est toujours là.<br/><br/>Chaque livre que je partage est une partie de moi, un bout d’espoir, une main tendue. Parce que parfois, il suffit d’une phrase, d’une page, d’un rappel pour changer une journée, une pensée, une vie. Bienvenue dans mon univers. Bienvenue là où les mots ont un sens, où les cœurs se reconnaissent, et où chaque lecture est une rencontre.</p>",
-            "link_url": "",
-            "link_text": ""
+            "text": "À propos de moi",
+            "heading_tag": "h1"
           }
         },
-        "image_with_text_XyCz34": {
-          "type": "image_with_text",
+        "richtext_3Ywz4P": {
+          "type": "richtext",
           "settings": {
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<p>Bienvenue dans mon univers. Bienvenue là où les mots ont un sens, où les cœurs se reconnaissent, et où chaque lecture est une rencontre.<br/></p>",
-            "link_url": "",
-            "link_text": ""
+            "content": "<p>Écrire a toujours été ma façon de parler quand les mots restaient coincés dans ma gorge. C’était ma manière de déposer mon cœur sur du papier, d’offrir un peu de lumière à ceux qui marchaient dans l’ombre de leurs doutes et de leurs blessures.<br/><br/>J’ai grandi avec l’amour des mots, non pas ceux qu’on dit à la hâte, mais ceux qui résonnent, qui touchent, qui restent. Des mots qui pansent les maux, qui rappellent l’essentiel, qui élèvent l’âme.<br/><br/>Alors j’ai écrit. J’ai écrit pour celles et ceux qui cherchent du réconfort, qui veulent retrouver la sérénité, qui ont besoin d’un rappel doux mais puissant que, quoi qu’il arrive, Allah est toujours là.<br/><br/>Chaque livre que je partage est une partie de moi, un bout d’espoir, une main tendue. Parce que parfois, il suffit d’une phrase, d’une page, d’un rappel pour changer une journée, une pensée, une vie.<br/><br/>Bienvenue dans mon univers. Bienvenue là où les mots ont un sens, où les cœurs se reconnaissent, et où chaque lecture est une rencontre.</p>"
           }
         }
       },
       "block_order": [
-        "image_with_text_ah69KK",
-        "image_with_text_4cmnLx",
-        "image_with_text_XyCz34"
+        "subheading_wVaief",
+        "heading_wgAiMR",
+        "richtext_3Ywz4P"
       ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": false,
-        "content_alignment": "center",
-        "text_alignment": "center",
-        "spacing": "md",
-        "subheading": "Bienvenue sur mon site, je suis Inaya",
-        "title": "UN PEU DE MOI",
-        "content": ""
-      }
-    },
-    "scrolling_content_krFcUf": {
-      "type": "scrolling-content",
-      "blocks": {
-        "text_6yWjGK": {
-          "type": "text",
-          "settings": {
-            "text": "100% des bénéfices reversé à un orphelinat"
-          }
-        },
-        "text_T7WYkQ": {
-          "type": "text",
-          "settings": {
-            "text": "10% de remise sur votre 1ère commande"
-          }
-        }
-      },
-      "block_order": [
-        "text_6yWjGK",
-        "text_T7WYkQ"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "scrolling_speed": 0.2,
-        "scroll_direction": "left",
-        "pause_on_hover": false,
-        "text_font": "heading",
-        "text_font_size_mobile": 12,
-        "text_font_size_desktop": 18,
-        "section_vertical_spacing_mobile": 14,
-        "section_vertical_spacing_desktop": 20,
-        "item_horizontal_spacing_mobile": 80,
-        "item_horizontal_spacing_desktop": 120,
-        "background": "#fcdcc4",
-        "text_color": "#666666"
-      }
-    },
-    "featured_product_qbX7nX": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor_jqyeTU": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_BFWNWb": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h3"
-          }
-        },
-        "badges_LxjADb": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_khykcC": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "feature_with_icon_VFWQ7L": {
-          "type": "feature_with_icon",
-          "settings": {
-            "text": "Lecture inspirante",
-            "link": "",
-            "icon": "picto-success",
-            "icon_width": 16,
-            "background": "#ffffff",
-            "text_color": "#6b6b6b",
-            "border_color": ""
-          }
-        },
-        "feature_with_icon_xzU3Ft": {
-          "type": "feature_with_icon",
-          "settings": {
-            "text": "Cadeau idéal",
-            "link": "",
-            "icon": "picto-gift",
-            "icon_width": 16,
-            "background": "#ffffff",
-            "text_color": "#6b6b6b",
-            "border_color": ""
-          }
-        },
-        "feature_with_icon_X7mKn8": {
-          "type": "feature_with_icon",
-          "settings": {
-            "text": "Livraison rapide",
-            "link": "",
-            "icon": "picto-delivery-truck",
-            "icon_width": 16,
-            "background": "#ffffff",
-            "text_color": "#6b6b6b",
-            "border_color": ""
-          }
-        },
-        "feature_with_icon_8CE6Mb": {
-          "type": "feature_with_icon",
-          "settings": {
-            "text": "Qualité premium",
-            "link": "",
-            "icon": "picto-jewelry",
-            "icon_width": 16,
-            "background": "#ffffff",
-            "text_color": "#6b6b6b",
-            "border_color": ""
-          }
-        },
-        "separator_7UwpJp": {
-          "type": "separator",
-          "settings": {}
-        },
-        "variant_picker_yxax4P": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_XkVYMQ": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "inventory_MhEmLq": {
-          "type": "inventory",
-          "settings": {
-            "show_in_stock_quantity": true,
-            "low_inventory_threshold": 29,
-            "show_progress_bar": true,
-            "progress_bar_max_value": 100
-          }
-        },
-        "buy_buttons_Bh3cUH": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "description_Bt9bYB": {
-          "type": "description",
-          "settings": {
-            "collapse_content": true
-          }
-        },
-        "accordion_tikpN9": {
-          "type": "accordion",
-          "settings": {
-            "icon": "none",
-            "title": "Détails du livre",
-            "content": "<p>Nombre de pages : 131</p><p>Dimensions : 13.34 x 0.76 x 20.32 cm</p><p>Un livre conçu pour t’inspirer, te recentrer et t’accompagner au quotidien. </p>",
-            "liquid": "",
-            "page": ""
-          }
-        },
-        "accordion_bb6Twy": {
-          "type": "accordion",
-          "settings": {
-            "icon": "none",
-            "title": "Livraison",
-            "content": "<p>Nous mettons un point d'honneur à vous offrir une <strong>livraison rapide et sécurisée</strong> pour que vous puissiez recevoir votre livre sans attendre</p><p><strong>Délais de livraison</strong> : 3 à 7 jours ouvrés selon votre localisation.</p><p><strong>Expédition</strong> : Traitement sous 24 à 48h après votre commande.</p><p><strong>Suivi de commande</strong> : Un numéro de suivi vous sera envoyé dès l'expédition pour suivre votre colis en temps réel.</p><p>Votre satisfaction est notre priorité, c'est pourquoi nous collaborons avec des transporteurs fiables pour une livraison en toute sérénité.</p>",
-            "liquid": "",
-            "page": ""
-          }
-        },
-        "offers_QhxkwA": {
-          "type": "offers",
-          "settings": {
-            "stack_offers": true,
-            "offer_1_title": "",
-            "offer_1_content": "<h4><strong>offrez à des enfants un avenir plus lumineux</strong></h4>",
-            "offer_2_title": "",
-            "offer_2_content": "<p>Pour chaque exemplaire de ‘Ramadan : Ma guérison du cœur’ acheté, la totalité des ventes sera reversée à un orphelinat.</p>",
-            "offer_3_title": "",
-            "offer_3_content": "",
-            "background": "#fcdcc4",
-            "text_color": "#666666",
-            "border_color": "#d1d1d1"
-          }
-        }
-      },
-      "block_order": [
-        "vendor_jqyeTU",
-        "title_BFWNWb",
-        "badges_LxjADb",
-        "price_khykcC",
-        "feature_with_icon_VFWQ7L",
-        "feature_with_icon_xzU3Ft",
-        "feature_with_icon_X7mKn8",
-        "feature_with_icon_8CE6Mb",
-        "separator_7UwpJp",
-        "variant_picker_yxax4P",
-        "quantity_selector_XkVYMQ",
-        "inventory_MhEmLq",
-        "buy_buttons_Bh3cUH",
-        "description_Bt9bYB",
-        "accordion_tikpN9",
-        "accordion_bb6Twy",
-        "offers_QhxkwA"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "product": "ramadan-ma-guerison-du-coeur",
-        "separate_section_with_border": true,
-        "container_size": "lg",
-        "product_info_size": 45,
-        "center_basic_info": false,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
-        "desktop_media_grid_gap": 30,
-        "mobile_controls": "dots",
-        "enable_media_autoplay": false,
-        "enable_video_looping": true,
-        "enable_image_zoom": false,
-        "max_image_zoom_level": 3,
-        "subheading": "",
-        "title": "",
-        "content": ""
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "video_yAA7Bn": {
@@ -423,35 +181,6 @@
         "video": "shopify://files/videos/woman-notebook-and-hands-writing-in-home-for-jour-2023-11-27-05-22-53-utc.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "les-cles-de-la-serenite",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "Explorer la collection"
-          }
-        }
-      },
-      "block_order": [
-        "collection-1"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Des écrits qui élèvent l'âme et apaisent le cœur"
       }
     },
     "logo_list_HfaWxV": {
@@ -515,11 +244,8 @@
     "slideshow",
     "rich_text_pBHhxV",
     "scrolling_content_LCRUaP",
-    "multi_column_mcAjnk",
-    "scrolling_content_krFcUf",
-    "featured_product_qbX7nX",
+    "rich_text_P3VeJ4",
     "video_yAA7Bn",
-    "featured-collections",
     "logo_list_HfaWxV"
   ]
 }
