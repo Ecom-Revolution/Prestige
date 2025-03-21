@@ -230,7 +230,7 @@
           "settings": {
             "title": "Rejoignez ma newsletter",
             "content": "<p>Inscrivez-vous pour découvrir mes nouvelles parutions, des réflexions inspirantes et des offres spéciales réservées aux abonnés.</p>",
-            "button_background": "#ffffff",
+            "button_background": "rgba(0,0,0,0)",
             "button_text_color": ""
           }
         }

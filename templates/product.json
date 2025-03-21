@@ -514,12 +514,42 @@
         "title": "Contactez-moi",
         "content": "<p>Je serais ravie de vous lire et de répondre à vos demandes. Remplissez le formulaire ci-dessous, et je vous répondrai dans les plus brefs délai</p>"
       }
+    },
+    "featured_collections_LcgGwW": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_4aViVJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "les-cles-de-la-serenite",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "Explorer la collection"
+          }
+        }
+      },
+      "block_order": [
+        "collection_4aViVJ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Des écrits qui élèvent l'âme et apaisent le cœur"
+      }
     }
   },
   "order": [
     "main",
     "multi_column_4iM8NW",
     "videoslider_PT3NzQ",
+    "featured_collections_LcgGwW",
     "faq_PE6aAK",
     "related-products",
     "contact_EnJGJB"
