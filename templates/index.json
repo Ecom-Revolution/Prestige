@@ -145,12 +145,23 @@
           "settings": {
             "content": "<p>Écrire a toujours été ma façon de parler quand les mots restaient coincés dans ma gorge. C’était ma manière de déposer mon cœur sur du papier, d’offrir un peu de lumière à ceux qui marchaient dans l’ombre de leurs doutes et de leurs blessures.<br/><br/>J’ai grandi avec l’amour des mots, non pas ceux qu’on dit à la hâte, mais ceux qui résonnent, qui touchent, qui restent. Des mots qui pansent les maux, qui rappellent l’essentiel, qui élèvent l’âme.<br/><br/>Alors j’ai écrit. J’ai écrit pour celles et ceux qui cherchent du réconfort, qui veulent retrouver la sérénité, qui ont besoin d’un rappel doux mais puissant que, quoi qu’il arrive, Allah est toujours là.<br/><br/>Chaque livre que je partage est une partie de moi, un bout d’espoir, une main tendue. Parce que parfois, il suffit d’une phrase, d’une page, d’un rappel pour changer une journée, une pensée, une vie.<br/><br/>Bienvenue dans mon univers. Bienvenue là où les mots ont un sens, où les cœurs se reconnaissent, et où chaque lecture est une rencontre.</p>"
           }
+        },
+        "button_TgJD3g": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "DÉCOUVRIR MON UNIVERS",
+            "url": "shopify://collections/les-cles-de-la-serenite",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "subheading_wVaief",
         "heading_wgAiMR",
-        "richtext_3Ywz4P"
+        "richtext_3Ywz4P",
+        "button_TgJD3g"
       ],
       "settings": {
         "color_scheme": "",
@@ -182,62 +193,6 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
-    },
-    "logo_list_HfaWxV": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_4LLnDb": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_WXBjB9": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_FbREnk": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_nMhRMP": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_iAGLzp": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_4LLnDb",
-        "logo_WXBjB9",
-        "logo_FbREnk",
-        "logo_nMhRMP",
-        "logo_iAGLzp"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "Mon Instagram",
-        "title": "<a href=\"https://www.instagram.com/ya.allah._/\" title=\"https://www.instagram.com/ya.allah._/\">@ya.allah._</a>",
-        "items_per_row": 5,
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
     }
   },
   "order": [
@@ -245,7 +200,6 @@
     "rich_text_pBHhxV",
     "scrolling_content_LCRUaP",
     "rich_text_P3VeJ4",
-    "video_yAA7Bn",
-    "logo_list_HfaWxV"
+    "video_yAA7Bn"
   ]
 }
