@@ -123,7 +123,7 @@
           "settings": {
             "video": "shopify://files/videos/VIDEO-2025-03-21-00-50-48.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "Tell your story",
+            "info": "",
             "url": ""
           }
         },
@@ -132,7 +132,7 @@
           "settings": {
             "video": "shopify://files/videos/VIDEO-2025-03-21-00-50-57.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "Tell your story",
+            "info": "",
             "url": ""
           }
         },
@@ -141,7 +141,7 @@
           "settings": {
             "video": "shopify://files/videos/VIDEO-2025-03-21-00-50-21.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "Tell your story",
+            "info": "",
             "url": ""
           }
         },
@@ -150,7 +150,7 @@
           "settings": {
             "video": "shopify://files/videos/VIDEO-2025-03-21-00-50-08.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "Tell your story",
+            "info": "",
             "url": ""
           }
         },
@@ -159,7 +159,7 @@
           "settings": {
             "video": "shopify://files/videos/VIDEO-2025-03-21-00-49-27.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "Tell your story",
+            "info": "",
             "url": ""
           }
         },
@@ -168,7 +168,7 @@
           "settings": {
             "video": "shopify://files/videos/VIDEO-2025-03-21-00-47-13.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "Tell your story",
+            "info": "",
             "url": ""
           }
         }
@@ -209,8 +209,8 @@
         "slider_mt_mobile": 36,
         "card_radius": 0,
         "card_border_thickness": 0,
-        "video_ratio": "portrait",
-        "video_ratio_mobile": "portrait",
+        "video_ratio": "original",
+        "video_ratio_mobile": "original",
         "info_custom": false,
         "info_font": "josefin_sans_n4",
         "info_size": 15,
@@ -224,7 +224,7 @@
         "arrow_icon_size_mobile": 8,
         "arrow_border_thickness": 1,
         "arrow_radius": 100,
-        "arrow_hover_effect": "color",
+        "arrow_hover_effect": "arrow",
         "arrow_show_desktop": true,
         "arrow_show_mobile": true,
         "action_size": 48,
@@ -234,14 +234,14 @@
         "action_border_thickness": 0,
         "card_border_color": "#000000",
         "info_color": "#FFFFFF",
-        "arrow_color": "#000000",
+        "arrow_color": "#5c5c5c",
         "arrow_hover_color": "#FFFFFF",
-        "arrow_bg_color": "#FFFFFF",
+        "arrow_bg_color": "#f7f3ee",
         "arrow_bg_hover_color": "#555555",
         "arrow_border_color": "#F6F6F6",
         "arrow_border_hover_color": "#555555",
-        "action_color": "#FFFFFF",
-        "action_hover_color": "#FFFFFF",
+        "action_color": "#f7f3ee",
+        "action_hover_color": "#f7f3ee",
         "action_bg_color": "#FFFFFF",
         "action_bg_hover_color": "#FFFFFF",
         "action_border_color": "#FFFFFF",
@@ -255,8 +255,8 @@
         "margin_bottom": 0,
         "margin_horizontal": 0,
         "margin_horizontal_mobile": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 12,
+        "padding_bottom": 32,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": true,
