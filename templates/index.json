@@ -209,7 +209,7 @@
         "section_padding_bottom": 60,
         "section_padding_top_mobile": 100,
         "section_padding_bottom_mobile": 100,
-        "custom_css": ".rich-text__text, .rich-text__heading {\n    font-family: 'Futura', sans-serif;\n    font-weight: normal;\n}"
+        "custom_css": ""
       }
     }
   },
