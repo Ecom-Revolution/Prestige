@@ -11,78 +11,12 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "testimonials_rKQjP4": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_KkQ7X7": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p><strong>Une lecture qui touche l'âme</strong></p><p>\"Chaque page de ce livre m’a apporté un rappel précieux. Il ne s’agit pas seulement de lecture, mais d’un véritable voyage spirituel qui apaise le cœur et éclaire l’esprit. Merci pour cette œuvre inspirante.\"</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": "<strong>Sarah M.</strong>"
-          }
-        },
-        "testimonial_KfcCnB": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p><strong>Un baume pour le cœur</strong></p><p>\"À travers ces mots, j’ai ressenti une paix intérieure que je n’avais jamais connue. Ce livre m’accompagne dans mon cheminement spirituel et m’aide à garder espoir face aux épreuves de la vie.\"</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": "<strong>Fatima L.</strong>"
-          }
-        },
-        "testimonial_cERdYt": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p><strong>Des paroles empreintes de sagesse</strong></p><p>\"Lire cet ouvrage, c’est comme recevoir un conseil bienveillant d’un proche qui souhaite votre bien. Il m’a aidée à me recentrer sur l’essentiel et à renforcer ma foi avec sérénité.\"</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": "<strong>Imane B.</strong>"
-          }
-        },
-        "testimonial_wB3rP8": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p><strong>Une lumière dans l’obscurité</strong></p><p>\"J’ai découvert ce livre à un moment difficile de ma vie et il a été une véritable bouffée d’air. Chaque mot résonne profondément et m’encourage à avancer avec patience et gratitude.\"</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": "<strong>Nadia K.</strong>"
-          }
-        },
-        "testimonial_WVtr3G": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p><strong>Un compagnon du quotidien</strong></p><p>\"Ce n’est pas un simple livre, c’est un guide, une source de réconfort qui m’accompagne chaque jour. Je le recommande à toute personne cherchant à nourrir son cœur et à se rapprocher de l’essentiel.\"</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": "<strong>Yasmine D.</strong>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_KkQ7X7",
-        "testimonial_KfcCnB",
-        "testimonial_cERdYt",
-        "testimonial_wB3rP8",
-        "testimonial_WVtr3G"
-      ],
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "auto_rotate_between_testimonials": false,
-        "cycle_speed": 5,
-        "font_size_factor": 1,
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
     "faq_a6MzQJ": {
       "type": "faq",
       "blocks": {
         "question_Rhr3yr": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Quels types de livres proposez-vous ?",
             "answer": "<p>Nos ouvrages sont centrés sur la spiritualité, la foi et la quête de sérénité intérieure. Chaque livre est conçu pour inspirer, apaiser et guider dans un cheminement spirituel profond.</p>"
@@ -90,6 +24,7 @@
         },
         "question_BVhV8w": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Vos livres sont-ils adaptés à tous ?",
             "answer": "<p>Oui, nos écrits s’adressent à toute personne cherchant à renforcer sa foi, trouver du réconfort ou explorer des réflexions spirituelles enrichissantes.</p>"
@@ -97,6 +32,7 @@
         },
         "question_Qfbqzp": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Vos livres sont-ils disponibles en version numérique ?",
             "answer": "<p>Pour le moment, nos ouvrages sont uniquement disponibles en version papier afin de préserver l’expérience authentique de la lecture et la connexion avec le texte.</p>"
@@ -104,6 +40,7 @@
         },
         "question_EdFfnf": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Quels sont les délais de livraison ?",
             "answer": "<p>Nos commandes sont traitées sous <strong>24 à 48 heures</strong> et expédiées sous <strong>3 à 7 jours ouvrés</strong> selon votre lieu de résidence.</p>"
@@ -111,6 +48,7 @@
         },
         "question_mg9BLE": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Où livrez-vous ?",
             "answer": "<p>Nous expédions partout en Belgique et à l’international. Les frais et délais de livraison varient en fonction de votre destination.</p>"
@@ -118,6 +56,7 @@
         },
         "question_zPzM3V": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Puis-je retourner un livre si je change d’avis ?",
             "answer": "<p>Nous acceptons les retours sous <strong>30 jours après réception</strong>, à condition que le livre soit dans son état d’origine et non utilisé. Les frais de retour sont à la charge du client.</p>"
@@ -125,6 +64,7 @@
         },
         "question_NXHexd": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Quels sont les moyens de paiement acceptés ?",
             "answer": "<p>Nous acceptons <strong>Visa, Mastercard, PayPal, Apple Pay et autres modes de paiement sécurisés</strong>.</p>"
@@ -132,6 +72,7 @@
         },
         "question_FgwCtb": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Mes paiements sont-ils sécurisés ?",
             "answer": "<p>Oui, tous les paiements effectués sur notre site sont <strong>entièrement sécurisés et cryptés</strong> pour garantir votre protection.</p>"
@@ -139,6 +80,7 @@
         },
         "question_VbKgzh": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Avez-vous un service client disponible ?",
             "answer": "<p>Oui, notre service client est disponible <strong>du lundi au vendredi de 9h à 18h</strong> pour répondre à toutes vos questions et vous accompagner dans votre commande.</p>"
@@ -156,6 +98,7 @@
         "question_FgwCtb",
         "question_VbKgzh"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -310,7 +253,6 @@
     }
   },
   "order": [
-    "testimonials_rKQjP4",
     "faq_a6MzQJ",
     "blog_posts_LyNbPC",
     "contact_dPBhfy",
