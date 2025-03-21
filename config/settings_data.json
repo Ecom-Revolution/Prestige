@@ -28,6 +28,7 @@
     "button_letter_spacing": 18,
     "show_vendor": true,
     "product_card_text_font": "heading",
+    "cart_type": "drawer",
     "social_instagram": "https://www.instagram.com/ya.allah._/",
     "favicon": "shopify://shop_images/N_500_x_450_px.png",
     "content_for_index": [],

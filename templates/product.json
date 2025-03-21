@@ -193,9 +193,9 @@
         "image_with_text_TMHGGa": {
           "type": "image_with_text",
           "settings": {
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Ici, chaque page a une âme, chaque mot a une intention. Ces livres ne sont pas de simples ouvrages, ce sont des lettres ouvertes, des confidences murmurées à ceux qui ont besoin d’un souffle d’espoir, d’une étincelle de foi, d’un rappel qui apaise.<br/></p>",
             "link_url": "",
             "link_text": ""
           }
@@ -203,9 +203,9 @@
         "image_with_text_bEq3eE": {
           "type": "image_with_text",
           "settings": {
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Parce que la vie nous éprouve, parce que parfois, les silences pèsent plus lourd que les cris, parce que l’on cherche des réponses dans des nuits sans sommeil… ces livres existent pour être lus au bon moment, pour être ressentis là où il faut, pour être des compagnons quand le cœur vacille.<br/></p>",
             "link_url": "",
             "link_text": ""
           }
@@ -213,9 +213,9 @@
         "image_with_text_8jTpka": {
           "type": "image_with_text",
           "settings": {
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Que ce soit pour retrouver la paix, pour renforcer ta foi, pour comprendre que rien n’arrive au hasard, chaque livre est une invitation à un voyage intérieur.<br/>Laisse-toi guider par les mots. Parce qu’ils ont ce pouvoir magique de guérir ce qu’on pensait irréparable…</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -235,8 +235,8 @@
         "content_alignment": "center",
         "text_alignment": "start",
         "spacing": "md",
-        "subheading": "About",
-        "title": "Multi-column",
+        "subheading": "INAYA Z.",
+        "title": "Des livres qui parlent au coeur...",
         "content": ""
       }
     },
