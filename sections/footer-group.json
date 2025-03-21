@@ -130,6 +130,7 @@
     },
     "contact_dPBhfy": {
       "type": "contact",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -144,41 +145,41 @@
         "icon-1": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Free delivery worldwide",
-            "content": "<p>Short content about your store</p>"
+            "icon": "picto-delivery-truck",
+            "icon_width": 40,
+            "mobile_icon_width": 36,
+            "title": "Livraison Fiable & Rapide",
+            "content": "<p>Vos ouvrages livrés avec soin, où que vous soyez.</p>"
           }
         },
         "icon-2": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Satisfied or refunded",
-            "content": "<p>Short content about your store</p>"
+            "icon": "picto-return",
+            "icon_width": 40,
+            "mobile_icon_width": 36,
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Retour sous 30 jours.</p>"
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Top-notch support",
-            "content": "<p>Short content about your store</p>"
+            "icon": "picto-customer-support",
+            "icon_width": 40,
+            "mobile_icon_width": 36,
+            "title": "Service client 24/7",
+            "content": "<p>Un service dédié à vos besoins.</p>"
           }
         },
         "icon-4": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Secure payments",
-            "content": "<p>Short content about your store</p>"
+            "icon": "picto-lock",
+            "icon_width": 40,
+            "mobile_icon_width": 36,
+            "title": "Paiement Sécurisé",
+            "content": "<p>Commandez en toute confiance grâce à notre système de paiement protégé.</p>"
           }
         }
       },

@@ -504,6 +504,16 @@
         "title": "Related products",
         "content": ""
       }
+    },
+    "contact_EnJGJB": {
+      "type": "contact",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "Besoin d’un conseil, d’une question ou d’un échange inspirant ?",
+        "title": "Contactez-moi",
+        "content": "<p>Je serais ravie de vous lire et de répondre à vos demandes. Remplissez le formulaire ci-dessous, et je vous répondrai dans les plus brefs délai</p>"
+      }
     }
   },
   "order": [
@@ -511,6 +521,7 @@
     "multi_column_4iM8NW",
     "videoslider_PT3NzQ",
     "faq_PE6aAK",
-    "related-products"
+    "related-products",
+    "contact_EnJGJB"
   ]
 }
