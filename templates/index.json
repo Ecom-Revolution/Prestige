@@ -132,7 +132,17 @@
           "settings": {
             "title": "",
             "heading_tag": "h6",
-            "content": "<p>L’écriture a toujours été pour moi un moyen d’expression profond, mais c’est dans le partage de la foi et de la spiritualité que j’ai trouvé ma véritable voie.</p><p>À travers mes livres, j’aspire à apporter des rappels puissants et des enseignements qui touchent le cœur, en particulier dans notre relation avec Allah.</p>",
+            "content": "<p>Écrire a toujours été ma façon de parler quand les mots restaient coincés dans ma gorge. C’était ma manière de déposer mon cœur sur du papier, d’offrir un peu de lumière à ceux qui marchaient dans l’ombre de leurs doutes et de leurs blessures.<br/><br/>J’ai grandi avec l’amour des mots, non pas ceux qu’on dit à la hâte, mais ceux qui résonnent, qui touchent, qui restent. Des mots qui pansent les maux, qui rappellent l’essentiel, qui élèvent l’âme.<br/></p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_4cmnLx": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p>Alors j’ai écrit. J’ai écrit pour celles et ceux qui cherchent du réconfort, qui veulent retrouver la sérénité, qui ont besoin d’un rappel doux mais puissant que, quoi qu’il arrive, Allah est toujours là.<br/><br/>Chaque livre que je partage est une partie de moi, un bout d’espoir, une main tendue. Parce que parfois, il suffit d’une phrase, d’une page, d’un rappel pour changer une journée, une pensée, une vie.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -142,17 +152,7 @@
           "settings": {
             "title": "",
             "heading_tag": "h3",
-            "content": "<p>J’ai décidé de me lancer dans l’écriture pour partager des expériences, des réflexions et des paroles inspirantes qui m’ont aidée dans mon propre parcours spirituel. <br/><br/>Chaque ouvrage est une invitation à la guérison du cœur, à la patience, à l’espoir et à l’amour d’Allah.Que ce soit pour traverser des épreuves ou pour se rapprocher de Lui, j’espère que mes livres seront une source de lumière pour vous.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_BH9Fyb": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<p>Mon but est simple : transmettre un message de foi, de gratitude et de paix intérieure.<br/></p><p>J’espère que mes mots pourront vous accompagner dans votre propre cheminement, et qu’ils apporteront un peu plus de lumière à votre quotidien.<br/><br/>Merci de faire partie de ce voyage avec moi.</p>",
+            "content": "<p>Bienvenue dans mon univers. Bienvenue là où les mots ont un sens, où les cœurs se reconnaissent, et où chaque lecture est une rencontre.<br/></p>",
             "link_url": "",
             "link_text": ""
           }
@@ -160,8 +160,8 @@
       },
       "block_order": [
         "image_with_text_ah69KK",
-        "image_with_text_XyCz34",
-        "image_with_text_BH9Fyb"
+        "image_with_text_4cmnLx",
+        "image_with_text_XyCz34"
       ],
       "settings": {
         "color_scheme": "",
