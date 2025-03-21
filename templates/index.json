@@ -193,6 +193,24 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
+    },
+    "pormotext_YLdqDt": {
+      "type": "PORMOTEXT",
+      "settings": {
+        "heading_text": "Pour chaque exemplaire de ‘Ramadan : Ma guérison du cœur’ acheté, la totalité des ventes sera reversée à un orphelinat. En soutenant ce projet, vous offrez à des enfants un avenir plus lumineux.",
+        "heading_tag": "h5",
+        "inherit_fonts": false,
+        "text_color": "#5c5c5c",
+        "background_color": "#ffffff",
+        "divider_color": "#efe8de",
+        "alter_divider": false,
+        "section_height": false,
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "section_padding_top_mobile": 100,
+        "section_padding_bottom_mobile": 100,
+        "custom_css": ".rich-text__text, .rich-text__heading {\n    font-family: 'Futura', sans-serif;\n    font-weight: normal;\n}"
+      }
     }
   },
   "order": [
@@ -200,6 +218,7 @@
     "rich_text_pBHhxV",
     "scrolling_content_LCRUaP",
     "rich_text_P3VeJ4",
-    "video_yAA7Bn"
+    "video_yAA7Bn",
+    "pormotext_YLdqDt"
   ]
 }
