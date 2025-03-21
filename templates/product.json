@@ -28,20 +28,57 @@
             "show_taxes_notice": false
           }
         },
+        "feature_with_icon_n4wLW9": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Lecture inspirante",
+            "link": "",
+            "icon": "picto-love",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_edYmDA": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Qualité premium",
+            "link": "",
+            "icon": "picto-jewelry",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_azpgiG": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Livraison rapide",
+            "link": "",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_pcEddj": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Cadeau idéal",
+            "link": "",
+            "icon": "picto-gift",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false,
-            "show_below_gallery": false
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -53,9 +90,14 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
+        "inventory_bnHeKg": {
+          "type": "inventory",
+          "settings": {
+            "show_in_stock_quantity": true,
+            "low_inventory_threshold": 100,
+            "show_progress_bar": true,
+            "progress_bar_max_value": 500
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -68,14 +110,48 @@
             "payment_button_text_color": ""
           }
         },
-        "complementary_products": {
-          "type": "complementary_products",
+        "description": {
+          "type": "description",
           "settings": {
-            "title": "Pairs well with",
-            "products_count": 2,
-            "show_below_gallery": true,
-            "stack_products": false,
-            "show_quick_buy": true
+            "collapse_content": true,
+            "show_below_gallery": false
+          }
+        },
+        "accordion_npJ7bG": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Détails du livre",
+            "content": "<p>Nombre de pages : 131</p><p>Dimensions : 13.34 x 0.76 x 20.32 cm</p><p>Un livre conçu pour t’inspirer, te recentrer et t’accompagner au quotidien. </p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_zf9yg9": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Livraison",
+            "content": "<p>Nous mettons un point d'honneur à vous offrir une <strong>livraison rapide et sécurisée</strong> pour que vous puissiez recevoir votre livre sans attendre</p><p><strong>Délais de livraison</strong> : 3 à 7 jours ouvrés selon votre localisation.</p><p><strong>Expédition</strong> : Traitement sous 24 à 48h après votre commande.</p><p><strong>Suivi de commande</strong> : Un numéro de suivi vous sera envoyé dès l'expédition pour suivre votre colis en temps réel.</p><p>Votre satisfaction est notre priorité, c'est pourquoi nous collaborons avec des transporteurs fiables pour une livraison en toute sérénité.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "offers_hdc3NC": {
+          "type": "offers",
+          "settings": {
+            "stack_offers": true,
+            "offer_1_title": "<strong>offrez à des orphelins un avenir plus lumineux</strong>",
+            "offer_1_content": "",
+            "offer_2_title": "",
+            "offer_2_content": "<p>Pour chaque exemplaire de ‘Ramadan : Ma guérison du cœur’ acheté, la totalité des ventes sera reversée à un orphelinat.</p>",
+            "offer_3_title": "",
+            "offer_3_content": "",
+            "background": "#efe8de",
+            "text_color": "",
+            "border_color": ""
           }
         }
       },
@@ -83,13 +159,18 @@
         "vendor",
         "title",
         "price",
+        "feature_with_icon_n4wLW9",
+        "feature_with_icon_edYmDA",
+        "feature_with_icon_azpgiG",
+        "feature_with_icon_pcEddj",
         "payment_terms",
-        "separator",
-        "description",
         "variant_picker",
-        "quantity_selector",
+        "inventory_bnHeKg",
         "buy_buttons",
-        "complementary_products"
+        "description",
+        "accordion_npJ7bG",
+        "accordion_zf9yg9",
+        "offers_hdc3NC"
       ],
       "settings": {
         "color_scheme": "",
@@ -104,6 +185,59 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3
+      }
+    },
+    "multi_column_4iM8NW": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_TMHGGa": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Column title",
+            "heading_tag": "h3",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_bEq3eE": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Column title",
+            "heading_tag": "h3",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_8jTpka": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Column title",
+            "heading_tag": "h3",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_TMHGGa",
+        "image_with_text_bEq3eE",
+        "image_with_text_8jTpka"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "About",
+        "title": "Multi-column",
+        "content": ""
       }
     },
     "videoslider_PT3NzQ": {
@@ -374,6 +508,7 @@
   },
   "order": [
     "main",
+    "multi_column_4iM8NW",
     "videoslider_PT3NzQ",
     "faq_PE6aAK",
     "related-products"
