@@ -231,8 +231,8 @@
           "settings": {
             "title": "Rejoignez ma newsletter",
             "content": "<p>Inscrivez-vous pour découvrir mes nouvelles parutions, des réflexions inspirantes et des offres spéciales réservées aux abonnés.</p>",
-            "button_background": "rgba(0,0,0,0)",
-            "button_text_color": ""
+            "button_background": "#5c5c5c",
+            "button_text_color": "#f7f3ee"
           }
         }
       },
