@@ -60,8 +60,8 @@
           "background": "#f7f3ee",
           "background_gradient": "",
           "text_color": "#666666",
-          "primary_button_background": "#ffffff",
-          "primary_button_text_color": "#1c1c1c",
+          "primary_button_background": "#5c5c5c",
+          "primary_button_text_color": "#f7f3ee",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#1c1c1c"
         }
