@@ -161,7 +161,13 @@
           </div>
         {%- endif -%}
 
-        <p class="heading text-subdued text-xxs">© {{ 'now' | date: '%Y' }} - {{ shop.name }} {{ powered_by_link }}</p>
+        <p class="heading text-subdued text-xxs">
+  © {{ 'now' | date: '%Y' }} – INAYA.Z | Boutique réalisée par 
+  <a href="https://8bhckk-2t.myshopify.com/" target="_blank" style="text-decoration: underline; color: inherit;">
+    Ecom Revolution
+  </a>
+</p>
+<p class="heading text-subdued text-xxs">© {{ 'now' | date: '%Y' }} - {{ shop.name }} {{ powered_by_link }}</p>
 
         {%- if section.settings.show_payment_icons and shop.enabled_payment_types.size > 0 -%}
           <div class="payment-methods">
